@@ -8,6 +8,14 @@ As a developer, I create many projects and applications. Although I am very capa
 
 To run this application, please refer to this instructional guide: https://drive.google.com/file/d/1ueO8VIY6LfzmaMyxCsjSxKBO8kECXf1y/view
 
+## Credits
+
+Big thanks to W3 Schools and Mozilla Developer for their walkthroughs.
+
+The color2k node module came was an incredible module that allowed me to work with colors written in different forms (regular, RGB, hexadecimal, etc.)
+
+Here is their website: https://color2k.com
+
 ## License
 
 MIT license (please refer to LICENSE file within the GitHub repo for more information)
